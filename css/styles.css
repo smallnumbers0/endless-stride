@@ -30,3 +30,16 @@ body {
     color: #4ed54c;
     font-family: Arial, sans-serif;
 }
+
+.week {
+    background-color: #675757;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px;
+}
+
+h3 {
+    padding: 10px;
+    color: white;
+}
+
