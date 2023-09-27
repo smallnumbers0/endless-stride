@@ -1,0 +1,32 @@
+
+html {
+    width: 900px;
+    margin: 0 auto;
+}
+
+/************NAV BAR************/
+nav {
+    padding: 1px;
+    background-color: #222;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em auto;
+    gap: 1em;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #4ed54c;
+}
+/*******************************/
+
+body {
+    background-color: #111;
+    color: #4ed54c;
+    font-family: Arial, sans-serif;
+}
