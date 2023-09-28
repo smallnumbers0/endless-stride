@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
 
 html {
     width: 900px;
@@ -31,6 +35,16 @@ body {
     font-family: Arial, sans-serif;
 }
 
+main {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+
+}
+
 .week {
     background-color: #675757;
     border-radius: 5px;
@@ -40,6 +54,6 @@ body {
 
 h3 {
     padding: 10px;
-    color: white;
+    color: #4ed54c;
 }
 
