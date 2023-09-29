@@ -52,8 +52,11 @@ main {
     padding: 10px;
 }
 
-h3 {
-    padding: 10px;
-    color: #4ed54c;
+#date {
+    /* border: 1px solid green; */
+    margin-top: 5px;
+    color: #d54c4c;
+    border-top: 1px solid #4ed54c;
+    padding-top: 5px;
 }
 
