@@ -52,6 +52,10 @@ main {
     padding: 10px;
 }
 
+h3 {
+    padding: 10px;
+}
+
 #date {
     /* border: 1px solid green; */
     margin-top: 5px;
